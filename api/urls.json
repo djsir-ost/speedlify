@@ -1,0 +1,107 @@
+{
+  "https://studymelbourne.vic.gov.au/news": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/news",
+    "url": "https://studymelbourne.vic.gov.au/news",
+    "hash": "39363946",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/events": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/events",
+    "url": "https://studymelbourne.vic.gov.au/events",
+    "hash": "73257736",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
+    "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
+    "hash": "5111725d",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/study-with-us/find-a-course": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
+    "url": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
+    "hash": "67538f4",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/about-study-melbourne": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne",
+    "url": "https://studymelbourne.vic.gov.au/about-study-melbourne",
+    "hash": "681516ee",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
+    "url": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
+    "hash": "7e6740ed",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/ke": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/ke",
+    "url": "https://studymelbourne.vic.gov.au/ke",
+    "hash": "82210fe7",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
+    "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
+    "hash": "b4c60c9f",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/au": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/au",
+    "url": "https://studymelbourne.vic.gov.au/au",
+    "hash": "b7aac9fd",
+    "categories": []
+  },
+  "https://studymelbourne.vic.gov.au/why-melbourne": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/why-melbourne",
+    "url": "https://studymelbourne.vic.gov.au/why-melbourne",
+    "hash": "bbb891e7",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/?toggle=intl": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/?toggle=intl",
+    "url": "https://studymelbourne.vic.gov.au/?toggle=intl",
+    "hash": "cbd98946",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
+    "url": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
+    "hash": "e746c208",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  }
+}
