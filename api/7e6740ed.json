@@ -1,7 +1,7 @@
 {
   "url": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
   "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
-  "timestamp": 1733110580163,
+  "timestamp": 1733129975518,
   "ranks": {
     "hundos": 12,
     "performance": 12,
@@ -10,39 +10,27 @@
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.2,
+    "performance": null,
     "accessibility": 0.87,
-    "bestPractices": 0.74,
+    "bestPractices": null,
     "seo": 0.92,
-    "total": 273
+    "total": 179
   },
-  "firstContentfulPaint": 2602.0634999999997,
-  "firstMeaningfulPaint": 3846.9859999999994,
-  "speedIndex": 6338.475862156432,
-  "largestContentfulPaint": 17446.422000000002,
-  "totalBlockingTime": 1088.0000000000005,
-  "cumulativeLayoutShift": 0.6746328923316396,
-  "timeToInteractive": 17411.4,
-  "maxPotentialFirstInputDelay": 275,
-  "timeToFirstByte": 43.626,
+  "timeToFirstByte": 24.154999999999998,
   "weight": {
-    "summary": "100 requests • 3.7 MiB",
-    "total": 3837267,
-    "image": 1924705,
+    "summary": "101 requests • 3.7 MiB",
+    "total": 3848501,
+    "image": 1924529,
     "imageCount": 28,
-    "script": 1569079,
-    "scriptCount": 43,
-    "document": 70217,
-    "font": 151391,
+    "script": 1580403,
+    "scriptCount": 44,
+    "document": 70196,
+    "font": 151378,
     "fontCount": 6,
-    "stylesheet": 75200,
+    "stylesheet": 75379,
     "stylesheetCount": 4,
-    "thirdParty": 1840166,
-    "thirdPartyCount": 14
-  },
-  "run": {
-    "number": 1,
-    "total": 1
+    "thirdParty": 0,
+    "thirdPartyCount": 0
   },
   "sidequests": {
     "-weight.total": 9,
@@ -56,12 +44,18 @@
     "-weight.font": 12,
     "+weight.font": 1,
     "+weight.fontCount": 1,
-    "-timeToFirstByte": 4,
-    "-totalBlockingTime": 11,
-    "-largestContentfulPaint": 12
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
   },
   "axe": {
     "passes": 1316,
     "violations": 18
+  },
+  "previousRanks": {
+    "hundos": 12,
+    "performance": 12,
+    "accessibility": 10,
+    "cumulative": 12
   }
 }

@@ -1,43 +1,43 @@
 {
   "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
   "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
-  "timestamp": 1733110552754,
+  "timestamp": 1733129950036,
   "ranks": {
-    "hundos": 8,
+    "hundos": 10,
     "performance": 11,
     "accessibility": 4,
-    "cumulative": 8
+    "cumulative": 9
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.21,
+    "performance": 0.23,
     "accessibility": 0.9,
     "bestPractices": 0.74,
     "seo": 1,
-    "total": 285
+    "total": 287
   },
-  "firstContentfulPaint": 1838.26,
-  "firstMeaningfulPaint": 2036.2600000000002,
-  "speedIndex": 6282.1004112994215,
-  "largestContentfulPaint": 15996.643000000004,
-  "totalBlockingTime": 1084.5,
-  "cumulativeLayoutShift": 1.1826096629383203,
-  "timeToInteractive": 16370.431,
-  "maxPotentialFirstInputDelay": 339,
-  "timeToFirstByte": 35.085,
+  "firstContentfulPaint": 1835.034,
+  "firstMeaningfulPaint": 2011.5240000000001,
+  "speedIndex": 6240.469486433732,
+  "largestContentfulPaint": 16794.014,
+  "totalBlockingTime": 1116.5000000000018,
+  "cumulativeLayoutShift": 0.5582576841269735,
+  "timeToInteractive": 16260.6505,
+  "maxPotentialFirstInputDelay": 302,
+  "timeToFirstByte": 34.91,
   "weight": {
-    "summary": "101 requests • 3.1 MiB",
-    "total": 3199861,
-    "image": 1420056,
+    "summary": "100 requests • 3.1 MiB",
+    "total": 3200432,
+    "image": 1420364,
     "imageCount": 32,
-    "script": 1514269,
+    "script": 1513718,
     "scriptCount": 41,
-    "document": 60319,
-    "font": 86957,
+    "document": 61343,
+    "font": 86956,
     "fontCount": 5,
-    "stylesheet": 71242,
+    "stylesheet": 71173,
     "stylesheetCount": 3,
-    "thirdParty": 1651828,
+    "thirdParty": 1652075,
     "thirdPartyCount": 13
   },
   "run": {
@@ -56,12 +56,18 @@
     "-weight.font": 8,
     "+weight.font": 5,
     "+weight.fontCount": 2,
-    "-timeToFirstByte": 2,
-    "-totalBlockingTime": 10,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 11,
     "-largestContentfulPaint": 11
   },
   "axe": {
     "passes": 922,
     "violations": 19
+  },
+  "previousRanks": {
+    "hundos": 6,
+    "performance": 7,
+    "accessibility": 4,
+    "cumulative": 6
   }
 }

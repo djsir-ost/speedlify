@@ -17,19 +17,19 @@
     ],
     "vertical": "study-melbourne"
   },
-  "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards": {
-    "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
-    "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
-    "hash": "5111725d",
+  "https://studymelbourne.vic.gov.au/study-with-us/find-a-course": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
+    "url": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
+    "hash": "67538f4",
     "categories": [
       "study-melbourne"
     ],
     "vertical": "study-melbourne"
   },
-  "https://studymelbourne.vic.gov.au/study-with-us/find-a-course": {
-    "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
-    "url": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
-    "hash": "67538f4",
+  "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
+    "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
+    "hash": "5111725d",
     "categories": [
       "study-melbourne"
     ],
