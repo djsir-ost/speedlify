@@ -54,7 +54,7 @@ jobs:
         with:
           name: results-last-runs.json
           path: default/_data/results-last-runs.json
-      - name: Git commit
+      - name: Commit results to separate branch
         env:
           COMMIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
           COMMIT_AUTHOR_NAME: github-actions[bot]
