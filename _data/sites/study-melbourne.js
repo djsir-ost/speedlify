@@ -1,6 +1,6 @@
 module.exports = {
 	name: 'Study Melbourne',
-	description: 'Top ten pages for Study Melbourne',
+	description: 'the top pages for Study Melbourne',
 	skip: false,
 	options: {
 		runs: 1,
