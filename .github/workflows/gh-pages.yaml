@@ -1,0 +1,71 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - results
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout results
+        uses: actions/checkout@v2
+        with:
+          ref: refs/heads/results
+          path: results
+
+      - name: Checkout Speedlify
+        uses: actions/checkout@v2
+        with:
+          path: default
+
+      - name: Checkout gh-pages website
+        uses: actions/checkout@v4
+        with:
+          ref: refs/heads/gh-pages
+          path: gh-pages
+
+      - name: Copy existing results
+        run: cp -r results/. default/_data
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          cache: npm
+          node-version-file: 'default/.nvmrc'
+          cache-dependency-path: 'default/package-lock.json'
+
+      - name: Install npm dependencies
+        run: npm install
+        working-directory: default
+
+      - name: Build Speedlify
+        run: |
+          npm run build -- --pathprefix=${GITHUB_REPOSITORY#*/}
+          npm run zip-results
+        working-directory: default
+
+      - name: Commit site folder to `gh-pages` branch
+        env:
+          COMMIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_AUTHOR_NAME: github-actions[bot]
+          COMMIT_MESSAGE: "chore: automatic site build"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p gh-pages
+          cp -r default/_site/* gh-pages
+          cd gh-pages
+          git init
+          git --no-pager branch --all --verbose
+          git config --local user.name "$COMMIT_AUTHOR_NAME"
+          git config --local user.email "$COMMIT_AUTHOR_EMAIL"
+          (git show-branch gh-pages &>/dev/null) && (git switch gh-pages) || (git switch --create gh-pages)
+          if [[ `git status --porcelain` ]]; then
+            git add .
+            git commit -m "$COMMIT_MESSAGE"
+            git push -u origin gh-pages
+          fi
