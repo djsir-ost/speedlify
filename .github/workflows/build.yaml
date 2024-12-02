@@ -19,7 +19,7 @@ jobs:
           ref: refs/heads/results
           path: results
 
-      - name: Checkout speedlify
+      - name: Checkout Speedlify
         uses: actions/checkout@v4
         with:
           path: default
@@ -54,6 +54,7 @@ jobs:
         with:
           name: results-last-runs.json
           path: default/_data/results-last-runs.json
+
       - name: Commit results to separate branch
         env:
           COMMIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
