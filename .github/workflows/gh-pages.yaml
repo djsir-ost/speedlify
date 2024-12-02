@@ -18,13 +18,13 @@ jobs:
       contents: write
     steps:
       - name: Checkout results
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: refs/heads/results
           path: results
 
       - name: Checkout Speedlify
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: default
 
