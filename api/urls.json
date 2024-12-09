@@ -26,6 +26,15 @@
     ],
     "vertical": "study-melbourne"
   },
+  "https://studymelbourne.vic.gov.au/ke": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/ke",
+    "url": "https://studymelbourne.vic.gov.au/ke",
+    "hash": "82210fe7",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
   "https://studymelbourne.vic.gov.au/study-with-us/find-a-course": {
     "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
     "url": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
@@ -48,15 +57,6 @@
     "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
     "url": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
     "hash": "7e6740ed",
-    "categories": [
-      "study-melbourne"
-    ],
-    "vertical": "study-melbourne"
-  },
-  "https://studymelbourne.vic.gov.au/ke": {
-    "requestedUrl": "https://studymelbourne.vic.gov.au/ke",
-    "url": "https://studymelbourne.vic.gov.au/ke",
-    "hash": "82210fe7",
     "categories": [
       "study-melbourne"
     ],
