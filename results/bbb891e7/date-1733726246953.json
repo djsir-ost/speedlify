@@ -1,0 +1,67 @@
+{
+  "url": "https://studymelbourne.vic.gov.au/why-melbourne",
+  "requestedUrl": "https://studymelbourne.vic.gov.au/why-melbourne",
+  "timestamp": 1733726322175,
+  "ranks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 5,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.58,
+    "accessibility": 0.89,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 325
+  },
+  "firstContentfulPaint": 1386.113,
+  "firstMeaningfulPaint": 1386.113,
+  "speedIndex": 2987.2031736063113,
+  "largestContentfulPaint": 2820.113,
+  "totalBlockingTime": 583.700499999999,
+  "cumulativeLayoutShift": 0.5434667406542205,
+  "timeToInteractive": 8549.113,
+  "maxPotentialFirstInputDelay": 199,
+  "timeToFirstByte": 21.894000000000002,
+  "weight": {
+    "summary": "90 requests • 2.3 MiB",
+    "total": 2378929,
+    "image": 1530808,
+    "imageCount": 35,
+    "script": 762893,
+    "scriptCount": 42,
+    "document": 15747,
+    "font": 44229,
+    "fontCount": 3,
+    "stylesheet": 24292,
+    "stylesheetCount": 2,
+    "thirdParty": 667029,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 8,
+    "-weight.document": 3,
+    "+weight.document": 10,
+    "-weight.script": 5,
+    "+weight.script": 8,
+    "-weight.image": 9,
+    "+weight.image": 4,
+    "-weight.font": 5,
+    "+weight.font": 8,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 672,
+    "violations": 12
+  }
+}

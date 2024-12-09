@@ -1,0 +1,67 @@
+{
+  "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
+  "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
+  "timestamp": 1733726393639,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 11,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.24,
+    "accessibility": 0.87,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 289
+  },
+  "firstContentfulPaint": 1386.1970000000001,
+  "firstMeaningfulPaint": 1386.1970000000001,
+  "speedIndex": 11903.036940306205,
+  "largestContentfulPaint": 8791.1505,
+  "totalBlockingTime": 726,
+  "cumulativeLayoutShift": 0.6839376707153557,
+  "timeToInteractive": 8167.625499999999,
+  "maxPotentialFirstInputDelay": 270,
+  "timeToFirstByte": 6311.609,
+  "weight": {
+    "summary": "70 requests • 1.1 MiB",
+    "total": 1156117,
+    "image": 335646,
+    "imageCount": 20,
+    "script": 742205,
+    "scriptCount": 38,
+    "document": 12441,
+    "font": 42819,
+    "fontCount": 2,
+    "stylesheet": 20661,
+    "stylesheetCount": 2,
+    "thirdParty": 636287,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 11,
+    "-weight.document": 1,
+    "+weight.document": 12,
+    "-weight.script": 1,
+    "+weight.script": 12,
+    "-weight.image": 3,
+    "+weight.image": 10,
+    "-weight.font": 2,
+    "+weight.font": 11,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 633,
+    "violations": 19
+  }
+}
