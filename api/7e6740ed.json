@@ -1,44 +1,44 @@
 {
   "url": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
   "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
-  "timestamp": 1733726448847,
+  "timestamp": 1734331209975,
   "ranks": {
-    "hundos": 12,
-    "performance": 12,
+    "hundos": 10,
+    "performance": 9,
     "accessibility": 10,
-    "cumulative": 12
+    "cumulative": 11
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.16,
+    "performance": 0.38,
     "accessibility": 0.87,
     "bestPractices": 0.78,
     "seo": 0.85,
-    "total": 266
+    "total": 288
   },
-  "firstContentfulPaint": 2736.532,
-  "firstMeaningfulPaint": 2886.532,
-  "speedIndex": 10509.611200169405,
-  "largestContentfulPaint": 16089.346,
-  "totalBlockingTime": 1033.5,
-  "cumulativeLayoutShift": 0.6631774412535062,
-  "timeToInteractive": 17873.013,
-  "maxPotentialFirstInputDelay": 293,
-  "timeToFirstByte": 3120.388,
+  "firstContentfulPaint": 2445.3575,
+  "firstMeaningfulPaint": 3552.992,
+  "speedIndex": 5401.129323322371,
+  "largestContentfulPaint": 16893.984500000002,
+  "totalBlockingTime": 1676,
+  "cumulativeLayoutShift": 0.10382972454323619,
+  "timeToInteractive": 18892.5855,
+  "maxPotentialFirstInputDelay": 480,
+  "timeToFirstByte": 38.801,
   "weight": {
-    "summary": "107 requests • 3.7 MiB",
-    "total": 3922322,
-    "image": 1925515,
-    "imageCount": 28,
-    "script": 1587322,
-    "scriptCount": 45,
-    "document": 70799,
-    "font": 216239,
-    "fontCount": 9,
-    "stylesheet": 75493,
-    "stylesheetCount": 4,
-    "thirdParty": 1857649,
-    "thirdPartyCount": 15
+    "summary": "131 requests • 3.8 MiB",
+    "total": 3949939,
+    "image": 1914425,
+    "imageCount": 32,
+    "script": 1599293,
+    "scriptCount": 49,
+    "document": 112136,
+    "font": 151411,
+    "fontCount": 8,
+    "stylesheet": 75202,
+    "stylesheetCount": 5,
+    "thirdParty": 1949832,
+    "thirdPartyCount": 14
   },
   "run": {
     "number": 1,
@@ -56,12 +56,12 @@
     "-weight.font": 12,
     "+weight.font": 1,
     "+weight.fontCount": 1,
-    "-timeToFirstByte": 5,
-    "-totalBlockingTime": 12,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 11,
     "-largestContentfulPaint": 12
   },
   "axe": {
-    "passes": 1316,
+    "passes": 1318,
     "violations": 18
   },
   "previousRanks": {

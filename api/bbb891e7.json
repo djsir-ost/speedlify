@@ -1,43 +1,43 @@
 {
   "url": "https://studymelbourne.vic.gov.au/why-melbourne",
   "requestedUrl": "https://studymelbourne.vic.gov.au/why-melbourne",
-  "timestamp": 1733726322175,
+  "timestamp": 1734331111343,
   "ranks": {
-    "hundos": 1,
-    "performance": 2,
+    "hundos": 3,
+    "performance": 7,
     "accessibility": 5,
-    "cumulative": 1
+    "cumulative": 3
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.58,
+    "performance": 0.52,
     "accessibility": 0.89,
     "bestPractices": 0.78,
     "seo": 1,
-    "total": 325
+    "total": 319
   },
-  "firstContentfulPaint": 1386.113,
-  "firstMeaningfulPaint": 1386.113,
-  "speedIndex": 2987.2031736063113,
-  "largestContentfulPaint": 2820.113,
-  "totalBlockingTime": 583.700499999999,
-  "cumulativeLayoutShift": 0.5434667406542205,
-  "timeToInteractive": 8549.113,
-  "maxPotentialFirstInputDelay": 199,
-  "timeToFirstByte": 21.894000000000002,
+  "firstContentfulPaint": 1408.909,
+  "firstMeaningfulPaint": 1408.909,
+  "speedIndex": 2449.1561452300884,
+  "largestContentfulPaint": 3017.8035,
+  "totalBlockingTime": 697,
+  "cumulativeLayoutShift": 1.0709903339340316,
+  "timeToInteractive": 8565.909,
+  "maxPotentialFirstInputDelay": 270,
+  "timeToFirstByte": 28.008000000000003,
   "weight": {
-    "summary": "90 requests • 2.3 MiB",
-    "total": 2378929,
-    "image": 1530808,
+    "summary": "101 requests • 2.3 MiB",
+    "total": 2400923,
+    "image": 1532944,
     "imageCount": 35,
-    "script": 762893,
-    "scriptCount": 42,
-    "document": 15747,
-    "font": 44229,
+    "script": 774729,
+    "scriptCount": 44,
+    "document": 15866,
+    "font": 44226,
     "fontCount": 3,
-    "stylesheet": 24292,
+    "stylesheet": 24272,
     "stylesheetCount": 2,
-    "thirdParty": 667029,
+    "thirdParty": 686666,
     "thirdPartyCount": 12
   },
   "run": {
@@ -57,17 +57,17 @@
     "+weight.font": 8,
     "+weight.fontCount": 5,
     "-timeToFirstByte": 1,
-    "-totalBlockingTime": 3,
+    "-totalBlockingTime": 6,
     "-largestContentfulPaint": 2
   },
   "axe": {
-    "passes": 672,
+    "passes": 674,
     "violations": 12
   },
   "previousRanks": {
     "hundos": 1,
     "performance": 2,
-    "accessibility": 6,
+    "accessibility": 5,
     "cumulative": 1
   }
 }

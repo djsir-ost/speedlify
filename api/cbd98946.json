@@ -1,73 +1,72 @@
 {
   "url": "https://studymelbourne.vic.gov.au/?toggle=intl",
   "requestedUrl": "https://studymelbourne.vic.gov.au/?toggle=intl",
-  "timestamp": 1733726295508,
+  "timestamp": 1734331083242,
   "ranks": {
-    "hundos": 9,
-    "performance": 8,
+    "hundos": 7,
+    "performance": 3,
     "accessibility": 8,
-    "cumulative": 9
+    "cumulative": 7
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.42,
+    "performance": 0.59,
     "accessibility": 0.88,
     "bestPractices": 0.78,
-    "seo": 0.83,
-    "total": 291
+    "seo": 0.77,
+    "total": 302
   },
-  "firstContentfulPaint": 2199.9894999999997,
-  "firstMeaningfulPaint": 3223.924,
-  "speedIndex": 10210.20537639933,
-  "largestContentfulPaint": 4393.816000000001,
-  "totalBlockingTime": 934.5,
-  "cumulativeLayoutShift": 0.2112866007813501,
-  "timeToInteractive": 10829.800000000003,
-  "maxPotentialFirstInputDelay": 371,
-  "timeToFirstByte": 4084.7259999999997,
+  "firstContentfulPaint": 1455.0145,
+  "firstMeaningfulPaint": 3677.8900000000003,
+  "speedIndex": 9004.28237507937,
+  "largestContentfulPaint": 4058.516,
+  "totalBlockingTime": 744.9999999999995,
+  "cumulativeLayoutShift": 0.07163692263272783,
+  "timeToInteractive": 13069.301021110532,
+  "maxPotentialFirstInputDelay": 207,
+  "timeToFirstByte": 1582.521,
   "weight": {
-    "summary": "106 requests • 6.4 MiB",
-    "total": 6681323,
-    "image": 602002,
-    "imageCount": 39,
-    "script": 1003010,
-    "scriptCount": 44,
-    "document": 21530,
-    "font": 97933,
-    "fontCount": 4,
-    "stylesheet": 45600,
+    "summary": "119 requests • 6.5 MiB",
+    "total": 6812812,
+    "image": 721833,
+    "imageCount": 40,
+    "script": 1013493,
+    "scriptCount": 46,
+    "document": 21794,
+    "font": 140772,
+    "fontCount": 6,
+    "stylesheet": 45727,
     "stylesheetCount": 7,
-    "thirdParty": 1089052,
-    "thirdPartyCount": 14
+    "thirdParty": 1106831,
+    "thirdPartyCount": 15
   },
   "run": {
     "number": 1,
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 10,
-    "+weight.total": 3,
-    "-weight.document": 9,
-    "+weight.document": 4,
+    "-weight.total": 11,
+    "+weight.total": 2,
+    "-weight.document": 10,
+    "+weight.document": 3,
     "-weight.script": 9,
     "+weight.script": 4,
     "-weight.image": 5,
     "+weight.image": 8,
-    "-weight.font": 9,
-    "+weight.font": 4,
-    "+weight.fontCount": 4,
-    "-timeToFirstByte": 9,
-    "-totalBlockingTime": 11,
-    "-largestContentfulPaint": 7
+    "-weight.font": 10,
+    "+weight.font": 3,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 6
   },
   "axe": {
-    "passes": 1199,
-    "violations": 17
+    "error": "{\"name\":\"TimeoutError\"}"
   },
   "previousRanks": {
-    "hundos": 7,
-    "performance": 5,
-    "accessibility": 7,
-    "cumulative": 7
+    "hundos": 9,
+    "performance": 8,
+    "accessibility": 8,
+    "cumulative": 9
   }
 }
