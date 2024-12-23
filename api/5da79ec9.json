@@ -1,43 +1,43 @@
 {
   "url": "https://studymelbourne.vic.gov.au/",
   "requestedUrl": "https://studymelbourne.vic.gov.au/au",
-  "timestamp": 1734331054615,
+  "timestamp": 1734935683336,
   "ranks": {
     "hundos": 9,
-    "performance": 5,
+    "performance": 4,
     "accessibility": 7,
     "cumulative": 9
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.56,
+    "performance": 0.58,
     "accessibility": 0.88,
-    "bestPractices": 0.78,
+    "bestPractices": 0.74,
     "seo": 0.77,
-    "total": 299
+    "total": 297
   },
-  "firstContentfulPaint": 1993.309,
-  "firstMeaningfulPaint": 3343.309,
-  "speedIndex": 5535.4102998294475,
-  "largestContentfulPaint": 3043.3089999999997,
-  "totalBlockingTime": 919,
-  "cumulativeLayoutShift": 0.2174449420737971,
-  "timeToInteractive": 12181.8265,
-  "maxPotentialFirstInputDelay": 251,
-  "timeToFirstByte": 29.08,
+  "firstContentfulPaint": 1992.1585,
+  "firstMeaningfulPaint": 3642.1584999999995,
+  "speedIndex": 6304.651029928019,
+  "largestContentfulPaint": 4692.1585000000005,
+  "totalBlockingTime": 643.9485000000004,
+  "cumulativeLayoutShift": 0.07786499836945196,
+  "timeToInteractive": 10938.506,
+  "maxPotentialFirstInputDelay": 226,
+  "timeToFirstByte": 25.866,
   "weight": {
-    "summary": "119 requests • 6.6 MiB",
-    "total": 6902098,
-    "image": 721998,
-    "imageCount": 39,
-    "script": 1014071,
+    "summary": "110 requests • 7.0 MiB",
+    "total": 7286716,
+    "image": 602012,
+    "imageCount": 38,
+    "script": 1005146,
     "scriptCount": 46,
-    "document": 21054,
-    "font": 140781,
+    "document": 20960,
+    "font": 140761,
     "fontCount": 6,
-    "stylesheet": 45838,
+    "stylesheet": 45058,
     "stylesheetCount": 7,
-    "thirdParty": 1107959,
+    "thirdParty": 1092544,
     "thirdPartyCount": 15
   },
   "run": {
@@ -47,26 +47,27 @@
   "sidequests": {
     "-weight.total": 12,
     "+weight.total": 1,
-    "-weight.document": 8,
-    "+weight.document": 5,
+    "-weight.document": 7,
+    "+weight.document": 6,
     "-weight.script": 10,
     "+weight.script": 3,
-    "-weight.image": 6,
-    "+weight.image": 7,
-    "-weight.font": 11,
+    "-weight.image": 5,
+    "+weight.image": 8,
+    "-weight.font": 10,
     "+weight.font": 2,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 2,
-    "-totalBlockingTime": 10,
-    "-largestContentfulPaint": 3
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 4
   },
   "axe": {
-    "error": "{\"name\":\"TimeoutError\"}"
+    "passes": 1201,
+    "violations": 17
   },
   "previousRanks": {
-    "hundos": 7,
-    "performance": 6,
+    "hundos": 9,
+    "performance": 5,
     "accessibility": 7,
-    "cumulative": 7
+    "cumulative": 9
   }
 }

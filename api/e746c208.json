@@ -1,72 +1,60 @@
 {
   "url": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
   "requestedUrl": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
-  "timestamp": 1734331125855,
+  "timestamp": 1734935750661,
   "ranks": {
-    "hundos": 4,
-    "performance": 6,
+    "hundos": 12,
+    "performance": 12,
     "accessibility": 1,
-    "cumulative": 4
+    "cumulative": 12
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.55,
+    "performance": null,
     "accessibility": 0.93,
-    "bestPractices": 0.74,
+    "bestPractices": null,
     "seo": 0.92,
-    "total": 314
+    "total": 185
   },
-  "firstContentfulPaint": 2158.5744999999997,
-  "firstMeaningfulPaint": 2158.5744999999997,
-  "speedIndex": 4155.935388051663,
-  "largestContentfulPaint": 2473.5804999999996,
-  "totalBlockingTime": 563.5,
-  "cumulativeLayoutShift": 0.7891377112099387,
-  "timeToInteractive": 11216.696,
-  "maxPotentialFirstInputDelay": 209,
-  "timeToFirstByte": 1137.5430000000001,
+  "timeToFirstByte": 34.152,
   "weight": {
-    "summary": "88 requests • 1.8 MiB",
-    "total": 1938697,
-    "image": 1057600,
-    "imageCount": 20,
-    "script": 765709,
-    "scriptCount": 41,
-    "document": 21308,
-    "font": 64871,
-    "fontCount": 6,
-    "stylesheet": 20304,
+    "summary": "84 requests • 1.8 MiB",
+    "total": 1887696,
+    "image": 1026409,
+    "imageCount": 27,
+    "script": 752283,
+    "scriptCount": 40,
+    "document": 20967,
+    "font": 64872,
+    "fontCount": 5,
+    "stylesheet": 20312,
     "stylesheetCount": 2,
-    "thirdParty": 667591,
-    "thirdPartyCount": 13
-  },
-  "run": {
-    "number": 1,
-    "total": 1
+    "thirdParty": 0,
+    "thirdPartyCount": 0
   },
   "sidequests": {
     "-weight.total": 4,
     "+weight.total": 9,
-    "-weight.document": 9,
-    "+weight.document": 4,
-    "-weight.script": 4,
-    "+weight.script": 9,
+    "-weight.document": 8,
+    "+weight.document": 5,
+    "-weight.script": 3,
+    "+weight.script": 10,
     "-weight.image": 7,
     "+weight.image": 6,
-    "-weight.font": 6,
+    "-weight.font": 5,
     "+weight.font": 7,
-    "+weight.fontCount": 3,
+    "+weight.fontCount": 4,
     "-timeToFirstByte": 9,
-    "-totalBlockingTime": 5,
-    "-largestContentfulPaint": 1
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 12
   },
   "axe": {
-    "passes": 691,
+    "passes": 727,
     "violations": 10
   },
   "previousRanks": {
     "hundos": 4,
-    "performance": 5,
+    "performance": 6,
     "accessibility": 1,
     "cumulative": 4
   }
