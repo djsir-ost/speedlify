@@ -1,43 +1,43 @@
 {
   "url": "https://studymelbourne.vic.gov.au/news",
   "requestedUrl": "https://studymelbourne.vic.gov.au/news",
-  "timestamp": 1734935763800,
+  "timestamp": 1735540541740,
   "ranks": {
-    "hundos": 1,
+    "hundos": 2,
     "performance": 2,
     "accessibility": 9,
-    "cumulative": 1
+    "cumulative": 2
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.61,
+    "performance": 0.62,
     "accessibility": 0.87,
     "bestPractices": 0.78,
-    "seo": 1,
-    "total": 326
+    "seo": 0.92,
+    "total": 319
   },
-  "firstContentfulPaint": 1397.879,
-  "firstMeaningfulPaint": 1397.879,
-  "speedIndex": 1519.22731469688,
-  "largestContentfulPaint": 4547.879,
-  "totalBlockingTime": 544.5,
-  "cumulativeLayoutShift": 0.19435079497799515,
-  "timeToInteractive": 8437.378999999999,
-  "maxPotentialFirstInputDelay": 189,
-  "timeToFirstByte": 24.220000000000002,
+  "firstContentfulPaint": 1399.288,
+  "firstMeaningfulPaint": 1399.288,
+  "speedIndex": 1556.118157231349,
+  "largestContentfulPaint": 4174.2880000000005,
+  "totalBlockingTime": 522,
+  "cumulativeLayoutShift": 0.21377300087936787,
+  "timeToInteractive": 8561.4405,
+  "maxPotentialFirstInputDelay": 197,
+  "timeToFirstByte": 40.71900000000001,
   "weight": {
     "summary": "70 requests • 2.7 MiB",
-    "total": 2801483,
-    "image": 1966728,
+    "total": 2802146,
+    "image": 1967280,
     "imageCount": 25,
-    "script": 748091,
+    "script": 747940,
     "scriptCount": 34,
-    "document": 20823,
+    "document": 20770,
     "font": 42814,
     "fontCount": 2,
-    "stylesheet": 20287,
+    "stylesheet": 20282,
     "stylesheetCount": 1,
-    "thirdParty": 648434,
+    "thirdParty": 648760,
     "thirdPartyCount": 12
   },
   "run": {
@@ -53,20 +53,20 @@
     "+weight.script": 11,
     "-weight.image": 12,
     "+weight.image": 1,
-    "-weight.font": 1,
-    "+weight.font": 11,
+    "-weight.font": 2,
+    "+weight.font": 10,
     "+weight.fontCount": 7,
-    "-timeToFirstByte": 3,
-    "-totalBlockingTime": 5,
-    "-largestContentfulPaint": 2
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 5
   },
   "axe": {
-    "passes": 829,
+    "passes": 826,
     "violations": 13
   },
   "previousRanks": {
     "hundos": 1,
-    "performance": 1,
+    "performance": 2,
     "accessibility": 9,
     "cumulative": 1
   }
