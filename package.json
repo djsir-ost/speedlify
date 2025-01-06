@@ -34,7 +34,7 @@
     "byte-size": "^9.0.1",
     "cross-zip": "^4.0.1",
     "dotenv": "^16.4.7",
-    "fast-glob": "^3.3.2",
+    "fast-glob": "^3.3.3",
     "lodash": "^4.17.21",
     "performance-leaderboard": "^11.6.0",
     "short-hash": "^1.0.0"
