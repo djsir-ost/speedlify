@@ -17,15 +17,6 @@
     ],
     "vertical": "study-melbourne"
   },
-  "https://studymelbourne.vic.gov.au/ke": {
-    "requestedUrl": "https://studymelbourne.vic.gov.au/ke",
-    "url": "https://studymelbourne.vic.gov.au/ke",
-    "hash": "82210fe7",
-    "categories": [
-      "study-melbourne"
-    ],
-    "vertical": "study-melbourne"
-  },
   "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards": {
     "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
     "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
@@ -34,6 +25,12 @@
       "study-melbourne"
     ],
     "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/au": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/au",
+    "url": "https://studymelbourne.vic.gov.au/au",
+    "hash": "b7aac9fd",
+    "categories": []
   },
   "https://studymelbourne.vic.gov.au/study-with-us/find-a-course": {
     "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
@@ -62,6 +59,15 @@
     ],
     "vertical": "study-melbourne"
   },
+  "https://studymelbourne.vic.gov.au/ke": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/ke",
+    "url": "https://studymelbourne.vic.gov.au/ke",
+    "hash": "82210fe7",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
   "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists": {
     "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
     "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
@@ -70,12 +76,6 @@
       "study-melbourne"
     ],
     "vertical": "study-melbourne"
-  },
-  "https://studymelbourne.vic.gov.au/au": {
-    "requestedUrl": "https://studymelbourne.vic.gov.au/au",
-    "url": "https://studymelbourne.vic.gov.au/au",
-    "hash": "b7aac9fd",
-    "categories": []
   },
   "https://studymelbourne.vic.gov.au/why-melbourne": {
     "requestedUrl": "https://studymelbourne.vic.gov.au/why-melbourne",

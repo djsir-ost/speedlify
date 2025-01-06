@@ -1,44 +1,44 @@
 {
   "url": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
   "requestedUrl": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
-  "timestamp": 1735540527776,
+  "timestamp": 1736145362525,
   "ranks": {
-    "hundos": 3,
-    "performance": 3,
+    "hundos": 2,
+    "performance": 2,
     "accessibility": 1,
-    "cumulative": 3
+    "cumulative": 2
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.56,
+    "performance": 0.67,
     "accessibility": 0.93,
     "bestPractices": 0.74,
     "seo": 0.92,
-    "total": 315
+    "total": 326
   },
-  "firstContentfulPaint": 1846.809,
-  "firstMeaningfulPaint": 1846.809,
-  "speedIndex": 3514.712366758525,
-  "largestContentfulPaint": 2824.8574999999996,
-  "totalBlockingTime": 513.5000000000005,
-  "cumulativeLayoutShift": 0.8578809960661156,
-  "timeToInteractive": 8479.333250000001,
-  "maxPotentialFirstInputDelay": 182,
-  "timeToFirstByte": 31.950000000000003,
+  "firstContentfulPaint": 1387.345,
+  "firstMeaningfulPaint": 1387.345,
+  "speedIndex": 2856.2541157893006,
+  "largestContentfulPaint": 2062.345,
+  "totalBlockingTime": 389.09024999999974,
+  "cumulativeLayoutShift": 0.5954302090391116,
+  "timeToInteractive": 8934.201250000002,
+  "maxPotentialFirstInputDelay": 218,
+  "timeToFirstByte": 37.114999999999995,
   "weight": {
-    "summary": "77 requests • 1.8 MiB",
-    "total": 1895184,
-    "image": 1020580,
+    "summary": "76 requests • 1.8 MiB",
+    "total": 1883285,
+    "image": 1021909,
     "imageCount": 20,
-    "script": 765393,
-    "scriptCount": 41,
-    "document": 21114,
-    "font": 64879,
+    "script": 752440,
+    "scriptCount": 40,
+    "document": 20815,
+    "font": 64872,
     "fontCount": 5,
-    "stylesheet": 20323,
+    "stylesheet": 20351,
     "stylesheetCount": 2,
-    "thirdParty": 661288,
-    "thirdPartyCount": 13
+    "thirdParty": 648287,
+    "thirdPartyCount": 12
   },
   "run": {
     "number": 1,
@@ -47,17 +47,17 @@
   "sidequests": {
     "-weight.total": 4,
     "+weight.total": 9,
-    "-weight.document": 9,
-    "+weight.document": 4,
-    "-weight.script": 5,
-    "+weight.script": 8,
+    "-weight.document": 7,
+    "+weight.document": 6,
+    "-weight.script": 4,
+    "+weight.script": 9,
     "-weight.image": 7,
     "+weight.image": 6,
-    "-weight.font": 7,
-    "+weight.font": 5,
+    "-weight.font": 6,
+    "+weight.font": 7,
     "+weight.fontCount": 4,
-    "-timeToFirstByte": 4,
-    "-totalBlockingTime": 6,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 1,
     "-largestContentfulPaint": 1
   },
   "axe": {
@@ -65,9 +65,9 @@
     "violations": 10
   },
   "previousRanks": {
-    "hundos": 12,
-    "performance": 12,
+    "hundos": 3,
+    "performance": 3,
     "accessibility": 1,
-    "cumulative": 12
+    "cumulative": 3
   }
 }
