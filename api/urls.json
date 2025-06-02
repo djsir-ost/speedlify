@@ -17,15 +17,6 @@
     ],
     "vertical": "study-melbourne"
   },
-  "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards": {
-    "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
-    "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
-    "hash": "5111725d",
-    "categories": [
-      "study-melbourne"
-    ],
-    "vertical": "study-melbourne"
-  },
   "https://studymelbourne.vic.gov.au/au": {
     "requestedUrl": "https://studymelbourne.vic.gov.au/au",
     "url": "https://studymelbourne.vic.gov.au/au",
@@ -36,6 +27,15 @@
     "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
     "url": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
     "hash": "67538f4",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
+    "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
+    "hash": "5111725d",
     "categories": [
       "study-melbourne"
     ],
@@ -68,15 +68,6 @@
     ],
     "vertical": "study-melbourne"
   },
-  "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists": {
-    "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
-    "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
-    "hash": "b4c60c9f",
-    "categories": [
-      "study-melbourne"
-    ],
-    "vertical": "study-melbourne"
-  },
   "https://studymelbourne.vic.gov.au/why-melbourne": {
     "requestedUrl": "https://studymelbourne.vic.gov.au/why-melbourne",
     "url": "https://studymelbourne.vic.gov.au/why-melbourne",
@@ -99,6 +90,15 @@
     "requestedUrl": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
     "url": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
     "hash": "e746c208",
+    "categories": [
+      "study-melbourne"
+    ],
+    "vertical": "study-melbourne"
+  },
+  "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
+    "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
+    "hash": "b4c60c9f",
     "categories": [
       "study-melbourne"
     ],
