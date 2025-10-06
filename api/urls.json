@@ -77,19 +77,19 @@
     ],
     "vertical": "study-melbourne"
   },
-  "https://studymelbourne.vic.gov.au/why-melbourne": {
-    "requestedUrl": "https://studymelbourne.vic.gov.au/why-melbourne",
-    "url": "https://studymelbourne.vic.gov.au/why-melbourne",
-    "hash": "bbb891e7",
+  "https://studymelbourne.vic.gov.au/?toggle=intl": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/?toggle=intl",
+    "url": "https://studymelbourne.vic.gov.au/?toggle=intl",
+    "hash": "cbd98946",
     "categories": [
       "study-melbourne"
     ],
     "vertical": "study-melbourne"
   },
-  "https://studymelbourne.vic.gov.au/?toggle=intl": {
-    "requestedUrl": "https://studymelbourne.vic.gov.au/?toggle=intl",
-    "url": "https://studymelbourne.vic.gov.au/?toggle=intl",
-    "hash": "cbd98946",
+  "https://studymelbourne.vic.gov.au/why-melbourne": {
+    "requestedUrl": "https://studymelbourne.vic.gov.au/why-melbourne",
+    "url": "https://studymelbourne.vic.gov.au/why-melbourne",
+    "hash": "bbb891e7",
     "categories": [
       "study-melbourne"
     ],
