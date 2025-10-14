@@ -38,7 +38,7 @@ jobs:
         run: cp -r results/. default/_data
 
       - name: Install Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           cache: npm
           node-version-file: 'default/.nvmrc'
