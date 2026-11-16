@@ -1,4 +1,10 @@
 {
+  "previousRanks": {
+    "hundos": 11,
+    "performance": 7,
+    "accessibility": 7,
+    "cumulative": 11
+  },
   "url": "https://studymelbourne.vic.gov.au/",
   "requestedUrl": "https://studymelbourne.vic.gov.au/au",
   "timestamp": 1736145296122,
@@ -63,11 +69,5 @@
   "axe": {
     "passes": 1201,
     "violations": 17
-  },
-  "previousRanks": {
-    "hundos": 11,
-    "performance": 7,
-    "accessibility": 7,
-    "cumulative": 11
   }
 }

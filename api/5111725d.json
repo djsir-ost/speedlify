@@ -1,4 +1,10 @@
 {
+  "previousRanks": {
+    "hundos": 8,
+    "performance": 9,
+    "accessibility": 11,
+    "cumulative": 8
+  },
   "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
   "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards",
   "timestamp": 1736145398870,
@@ -63,11 +69,5 @@
   "axe": {
     "passes": 635,
     "violations": 19
-  },
-  "previousRanks": {
-    "hundos": 8,
-    "performance": 9,
-    "accessibility": 11,
-    "cumulative": 8
   }
 }

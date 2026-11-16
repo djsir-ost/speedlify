@@ -1,4 +1,10 @@
 {
+  "previousRanks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 3
+  },
   "url": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
   "requestedUrl": "https://studymelbourne.vic.gov.au/our-study-hubs/study-melbourne-hub-victoria",
   "timestamp": 1736145362525,
@@ -63,11 +69,5 @@
   "axe": {
     "passes": 727,
     "violations": 10
-  },
-  "previousRanks": {
-    "hundos": 3,
-    "performance": 3,
-    "accessibility": 1,
-    "cumulative": 3
   }
 }

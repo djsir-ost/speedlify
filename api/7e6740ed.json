@@ -1,4 +1,10 @@
 {
+  "previousRanks": {
+    "hundos": 12,
+    "performance": 12,
+    "accessibility": 10,
+    "cumulative": 12
+  },
   "url": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
   "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/types-of-education/our-universities",
   "timestamp": 1736145442178,
@@ -63,11 +69,5 @@
   "axe": {
     "passes": 1318,
     "violations": 18
-  },
-  "previousRanks": {
-    "hundos": 12,
-    "performance": 12,
-    "accessibility": 10,
-    "cumulative": 12
   }
 }

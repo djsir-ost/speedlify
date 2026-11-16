@@ -1,4 +1,10 @@
 {
+  "previousRanks": {
+    "hundos": 11,
+    "performance": 11,
+    "accessibility": 8,
+    "cumulative": 11
+  },
   "url": "https://studymelbourne.vic.gov.au/ke",
   "requestedUrl": "https://studymelbourne.vic.gov.au/ke",
   "timestamp": 1733129850858,
@@ -62,11 +68,5 @@
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
-  },
-  "previousRanks": {
-    "hundos": 11,
-    "performance": 11,
-    "accessibility": 8,
-    "cumulative": 11
   }
 }

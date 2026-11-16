@@ -1,4 +1,10 @@
 {
+  "previousRanks": {
+    "hundos": 5,
+    "performance": 8,
+    "accessibility": 3,
+    "cumulative": 5
+  },
   "url": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
   "requestedUrl": "https://studymelbourne.vic.gov.au/study-with-us/find-a-course",
   "timestamp": 1736145426597,
@@ -63,11 +69,5 @@
   "axe": {
     "passes": 637,
     "violations": 17
-  },
-  "previousRanks": {
-    "hundos": 5,
-    "performance": 8,
-    "accessibility": 3,
-    "cumulative": 5
   }
 }
