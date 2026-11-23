@@ -1,10 +1,4 @@
 {
-  "previousRanks": {
-    "hundos": 10,
-    "performance": 11,
-    "accessibility": 4,
-    "cumulative": 10
-  },
   "url": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
   "requestedUrl": "https://studymelbourne.vic.gov.au/about-study-melbourne/victorian-international-education-awards/2024-student-winners-and-finalists",
   "timestamp": 1736145414447,
@@ -69,5 +63,11 @@
   "axe": {
     "passes": 924,
     "violations": 19
+  },
+  "previousRanks": {
+    "hundos": 10,
+    "performance": 11,
+    "accessibility": 4,
+    "cumulative": 10
   }
 }
